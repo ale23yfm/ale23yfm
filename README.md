@@ -3,9 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ale23yfm&label=Profile%20views&color=0e75b6&style=flat" alt="ale23yfm" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ale23yfm" alt="ale23yfm" /></a> </p>
-
 - 🔭 I’m currently working on [PeViitor API](https://github.com/peviitor-ro/api)
+
+## My activity on this repository
+
+![My GitHub Trophy](https://github-profile-trophy.vercel.app/?username=ale23yfm&repo=peviitor-ro/api)
 
 - 🌱 I’m currently learning **PHP, Python, Java, HTML5, CSS, JavaScript**
 
