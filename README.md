@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ale23yfm&label=Profile%20views&color=0e75b6&style=flat" alt="ale23yfm" /> </p>
 
-- 🔭 I’m currently working on [PeViitor API](https://github.com/peviitor-ro/api)
+- 🔭 I’m currently contributing to the improvement and development of the [PeViitor API](https://github.com/peviitor-ro/api) a project written in PHP.
 
 ## My activity on this repository
 
