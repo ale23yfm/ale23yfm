@@ -7,7 +7,7 @@
 
 ## My activity on this repository
 
-![My GitHub Trophy](https://github-profile-trophy.vercel.app/?username=ale23yfm&repo=peviitor-ro/api)
+![My GitHub Trophy](https://github-profile-trophy.vercel.app/?username=ale23yfm)
 
 - 🌱 I’m currently learning **PHP, Python, Java, HTML5, CSS, JavaScript**
 
