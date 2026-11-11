@@ -7,7 +7,7 @@
 
 ## My activity on this repository
 
-- 🌱 I’m currently learning **C++, PHP, Python, Java, HTML5, CSS, JavaScript**
+- 🌱 I’m currently learning **C, C++, PHP, Python, Java, HTML5, CSS, JavaScript**
 
 - 📫 How to reach me **aleifrim79@gmail.com**
 
